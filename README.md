@@ -1,6 +1,4 @@
-# Criptografia simples em C
-
-Trabalho acadêmico de criptografia que combina a Cifra de César com um deslocamento variável baseado em uma sequência numérica.
+# Criptografia em C
 
 ## O que o programa faz
 
